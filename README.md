@@ -140,7 +140,7 @@ CODE WITH CORRECT API ENDPOINTS: (auth.service.ts)
 
 
 
-CODE WITH CORRECT API ENDPOINTS: (auth.service.ts)
+CODE WITH WRONG API ENDPOINTS: (auth.service.ts)
 ===============================
 		import { Injectable } from '@angular/core';
 		import {Http, Headers} from '@angular/http';
