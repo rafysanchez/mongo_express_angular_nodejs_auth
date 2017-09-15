@@ -1,12 +1,13 @@
 # MEANauthapp
 
+
 Complete MEAN stack application with authentication using json web tokens
 
 ### Version
 1.0.0
 
 ## Usage
-
+Using node v7.6.0 (npm v4.1.2)
 
 ### Installation
 
