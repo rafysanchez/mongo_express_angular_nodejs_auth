@@ -8,8 +8,11 @@ const config = require('./config/database');
 
 // Connect To Database
 mongoose.connect(config.database, {
-  useMongoClient: true,
+  //useMongoClient: true,
   /* other options */
+// pass option { useNewUrlParser: true } to MongoClient.connect.
+	
+ 	useNewUrlParser: true ,
 });
 
 // On Connection
